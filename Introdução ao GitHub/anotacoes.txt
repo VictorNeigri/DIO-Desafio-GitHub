@@ -2,3 +2,11 @@ links para download do git https://git-scm.com/downloads
 
 
 o gitbash é um terminal extendido para otimizar o uso do git
+
+COMANDOS PARA UPAR ARQUIVO NO GITHUB
+
+git add .
+
+git commit -m ""inclusão das anotações do curso git/github"
+
+git push origin main
